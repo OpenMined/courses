@@ -8,23 +8,23 @@ At OpenMined we pride ourselves on our community that, despite its diversity, is
 
 By signing up for OpenMined courses, you agree to:
 
-* Cultivating a positive, supportive learning environment;
+* Cultivate a positive, supportive learning environment;
 
-* Using welcoming and inclusive language;
+* Use welcoming and inclusive language;
 
-* Being respectful of differing viewpoints and experiences;
+* Be respectful of differing viewpoints and experiences;
 
-* Focusing on what is best for the community;
+* Focus on what is best for the community;
 
-* Showing empathy towards other students and members of the OpenMined community;
+* Show empathy towards other students and members of the OpenMined community;
 
-* Communicating respectfully and considerately with all students and members of the OpenMined community;
+* Communicate respectfully and considerately with all students and members of the OpenMined community;
 
-* Not sharing content that is obscene, illicit, threatening, or discriminatory;
+* Not share content that is obscene, illicit, threatening, or discriminatory;
 
-* Contributing constructively to discussions with fellow community members; and
+* Contribute constructively to discussions with fellow community members; and
 
-* Notifying OpenMined immediately if you become aware of violations to the code at andrew@openmined.org.
+* Notify OpenMined immediately if you become aware of violations to the code at andrew@openmined.org.
 
 
 ## Examples of Inappropriate Behaviors

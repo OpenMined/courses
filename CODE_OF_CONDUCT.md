@@ -49,7 +49,7 @@ The following behaviors are examples of the types of conduct that will not be to
 
 ## Scope
 
-This Code of Conduct applies on the courses dicussion board, the OpenMined Slack community and on the courses platform.
+This Code of Conduct applies in the OpenMined Slack community, the courses discussion board, the courses platform and during all online events organized by the OpenMined community.
 
 ## Violations
 

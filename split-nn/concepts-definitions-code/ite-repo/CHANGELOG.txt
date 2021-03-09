@@ -1,0 +1,6 @@
+v1.1 (Feb 20, 2018):
+-Analytical values & demo for MMD: added ('demo_d_mmd.py', 'analytical_value_d_mmd.py').
+-New examples for expected kernel: added ('demo_k_expected.py', 'analytical_value_k_expected.py'").
+-Documentation: Table 6: first 2 rows: 'Cost name': 'BKProbProd_KnnK' <--changed--> 'BKExpected' [Thanks to Matthew D. Harris for noticing the typo.]
+
+v1.0 (Nov 18, 2016): initial release.

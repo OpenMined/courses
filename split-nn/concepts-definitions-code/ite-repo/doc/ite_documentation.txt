@@ -1,0 +1,3 @@
+The documentation of a given ITE release is available at 'https://bitbucket.org/szzoli/ite-in-python/downloads': Downloads tab: 'ITE-<release>_documentation.pdf'.
+
+Note on the archives of the code: the contents of the .zip and .tar.bz2-ed are identical; choose the extension you prefer.

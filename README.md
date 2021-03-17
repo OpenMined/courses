@@ -11,4 +11,10 @@ In your favorite environment manager (we suggest [conda](https://docs.conda.io/e
 ```bash
 pip install -r requirements.txt
 ```
+
+For now please install Syft like this
+```bash
+pip install git+https://github.com/OpenMined/PySyft@dev#egg=syft
+```
+
 If you have issues installing the dependencies or getting the code to run, please ask for help on the [discussion board](https://github.com/OpenMined/courses/discussions).

@@ -6,7 +6,15 @@ If you have technical issues with the website itself, or want to provide feedbac
 
 ## Installing Dependencies
 
-In your favorite environment manager (we suggest [conda](https://docs.conda.io/en/latest/miniconda.html)), install the code dependencies with pip. Also, make sure you're using Python 3.6+.
+In your favorite environment manager (we suggest [conda](https://docs.conda.io/en/latest/miniconda.html)), install the code dependencies with `pip`. Also, make sure you're using Python 3.6+.
+
+### Windows Prerequisites
+On Windows, you may require a few extra dependencies. If you're using `conda`, then you should run:
+```bash
+conda install pywin32
+```
+
+### General Installation Steps
 
 ```bash
 pip install -r requirements.txt

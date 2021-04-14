@@ -40,3 +40,5 @@ On Windows, you may require a few extra dependencies. If you're using `conda`, t
 ```bash
 conda install pywin32
 ```
+
+If you have issues installing the dependencies or getting the code to run, please ask for help on the [discussion board](https://github.com/OpenMined/courses/discussions)

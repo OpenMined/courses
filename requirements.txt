@@ -1,5 +1,6 @@
 numpy
 aiortc
+cryptography
 dataclasses # backport to python 3.6
 dpcontracts
 flask
@@ -13,7 +14,9 @@ protobuf
 PyNaCl
 requests
 scikit-learn
+seaborn
 sqlitedict
+statsmodels
 typeguard
 typing-extensions # backport to older python 3
 websockets

@@ -20,14 +20,17 @@ dependencies:
   - python>=3.6
   - requests
   - scikit-learn
+  - seaborn
   - setuptools
   - sqlitedict
+  - statsmodels
   - torchvision<=0.9,>=0.5
   - typeguard
   - typing-extensions
   - websockets
   - pip:
     - aiortc
+    - cryptography
     - dpcontracts
     - forbiddenfruit>=0.1.3
     - git+https://github.com/OpenMined/PySyft@dev#egg=syft

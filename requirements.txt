@@ -11,6 +11,7 @@ nest_asyncio
 packaging
 pandas
 protobuf
+pydagogy
 PyNaCl
 requests
 scikit-learn

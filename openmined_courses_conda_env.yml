@@ -34,3 +34,4 @@ dependencies:
     - dpcontracts
     - forbiddenfruit>=0.1.3
     - git+https://github.com/OpenMined/PySyft@dev#egg=syft
+    - pydagogy

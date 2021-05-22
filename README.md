@@ -30,7 +30,7 @@ pip install -r requirements.txt
 For now please install Syft like this:
 
 ```bash
-pip install git+https://github.com/OpenMined/PySyft@dev#egg=syft
+pip install git+https://github.com/openmined/PySyft@dev#subdirectory=packages/syft
 ```
 
 #### Windows Prerequisites

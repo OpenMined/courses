@@ -6,7 +6,7 @@ channels:
 dependencies:
   - cpuonly
   - dataclasses
-  - flask
+  - flask>=1.1.2,<2.0.0
   - jupyter
   - loguru
   - matplotlib
@@ -16,7 +16,7 @@ dependencies:
   - protobuf
   - pip
   - pynacl
-  - pytorch<=1.8.0,>=1.4.0
+  - pytorch<=1.8.1,>=1.4.0
   - python>=3.6
   - requests
   - scikit-learn
@@ -24,14 +24,15 @@ dependencies:
   - setuptools
   - sqlitedict
   - statsmodels
-  - torchvision<=0.9,>=0.5
+  - torchvision<=0.9.1,>=0.5
   - typeguard
   - typing-extensions
   - websockets
+  - Werkzeug>=1.0.1,<2.0.0
   - pip:
     - aiortc
     - cryptography
     - dpcontracts
     - forbiddenfruit>=0.1.3
-    - git+https://github.com/OpenMined/PySyft@dev#egg=syft
+    - git+https://github.com/openmined/PySyft@dev#subdirectory=packages/syft
     - pydagogy
